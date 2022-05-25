@@ -1,0 +1,11 @@
+{
+  "name": "js-coding-interview-questions",
+  "version": "1.0.0",
+  "description": "A series of commong JS questions for code interviews",
+  "main": "index.js",
+  "scripts": {
+    "test": "question run"
+  },
+  "author": "Pedro Nogueira",
+  "license": "MIT"
+}
